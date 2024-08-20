@@ -57,6 +57,10 @@ combined_result = combined_chain.run(input_data)
 <br/>
 LangChain is modular, so you can add or remove components based on your needs, making it a flexible solution for various LLM-based applications.
 
+<br/>
+
 https://replit.com/@23GauravDave/Langchaintut
+
+<br/>
 
 Checkout this replit for Langchain Tutorial 
